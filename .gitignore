@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+.vscode*
+tmp_examples*
+new_checkpoint*
+batch_test*
+nohup*
+checkpoints/
+output/
+*.pt
+motion_i2v_*.mp4
+ti2v-5B_*.mp4
